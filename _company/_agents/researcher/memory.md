@@ -20,3 +20,4 @@ _Researcher 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 
 - [2026-05-16] 최신 Gumroad 데이터 분석 및 AI Business Plan 분석 진행 중인지 확인 → 산출물 sessions/2026-05-16T23-02/researcher.md
 - [2026-05-17] 웹툰 이미지 생성 기술 트렌드 분석 및 경쟁사 사례 수집 → 산출물 sessions/2026-05-17T02-58/researcher.md
 - [2026-05-17] 웹툰 이미지 생성 기술 트렌드 분석 및 z-anime 모델 관련 논문·소스 수집. ComfyUI 워크플로우 사례 모음. → 산출물 sessions/2026-05-17T03-20/researcher.md
+- [2026-05-17] 웹툰 스타일 LoRA 3 개 병행 전략 수립 및 테스트. Designer에게 결과물 전달. → 산출물 sessions/2026-05-17T03-49/researcher.md
