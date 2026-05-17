@@ -22,6 +22,12 @@ AUTONOMY_LEVEL: 2
 
 ## 사용 가능한 도구
 
+### `work_decomposer`
+🧭 업무 세분화 및 실행 로드맵 설계기 (다단계 마일스톤 분장)
+
+- `enabled`: true
+- `requires_credentials`: `config.md` 참조
+
 ### `router`
 사용자 명령 → 적합한 specialist로 분배 (CEO 클래시파이어 내장)
 

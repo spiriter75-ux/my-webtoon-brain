@@ -22,9 +22,18 @@ AUTONOMY_LEVEL: 2
 
 ## 사용 가능한 도구
 
-_⚠️ 이 에이전트의 도구는 모두 로드맵 단계입니다. 현재 LLM 추론만 가능하고, 외부 API 호출이나 파일 생성은 아직 동작하지 않습니다._
+### `copywriter_generator`
+✍️ 고전환율 카피라이팅 엔진 (AIDA & PAS 문장 설계)
+
+- `enabled`: true
+- `requires_credentials`: `config.md` 참조
+
+
+---
 
 ## 로드맵 (예정)
+
+_아래 도구들은 향후 버전에서 추가 예정. 지금은 카탈로그에만 있음._
 
 ### `tone_learner` _(예정)_
 사용자 과거 글 학습 → 톤 복제

@@ -1,0 +1,89 @@
+{
+  "tasks": [
+    {
+      "id": "20260516193537-r6zf",
+      "title": "Gumroad 스토어에 10 개 이상의 리뷰 확보",
+      "description": "자동 등록 (코다리 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "developer"
+      ],
+      "createdAt": "2026-05-16T19:35:37.657Z",
+      "status": "done",
+      "sessionDir": "2026-05-16T19-02",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-16T19-02/_report.md\n- Researcher: 메모리에서 최근 24시간 의사결정·산출물·명령 추출, Gumroad 데이터 분석, 코다리 SaaS 테스트 로직 점검, 중복 항목 제거\n- 현빈: Gumroad 상위 20 제품 중 전환율 8% 이상인 3개 제품 선정 및 상세 분석 계획 수립\n- Writer: 'AI Legal Contract Generator' Gumroad 제품 기능·UI/UX·마케팅 포인트 분석 완료 후 모방 페이지 카피 작성 시\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 메모리에서 최근 24시간 의사결정·산출물·명령 추출, Gumroad 데이터 분석, 코다리 SaaS 테스트 로직 점검, 중복 항목 제거\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심",
+      "completedAt": "2026-05-16T19:36:00.093Z"
+    },
+    {
+      "id": "20260516193537-e8nt",
+      "title": "Facebook 광고 ROAS 가 3:1 이상 유지",
+      "description": "자동 등록 (코다리 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "developer"
+      ],
+      "createdAt": "2026-05-16T19:35:37.709Z",
+      "status": "done",
+      "sessionDir": "2026-05-16T19-02",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-16T19-02/_report.md\n- Researcher: 메모리에서 최근 24시간 의사결정·산출물·명령 추출, Gumroad 데이터 분석, 코다리 SaaS 테스트 로직 점검, 중복 항목 제거\n- 현빈: Gumroad 상위 20 제품 중 전환율 8% 이상인 3개 제품 선정 및 상세 분석 계획 수립\n- Writer: 'AI Legal Contract Generator' Gumroad 제품 기능·UI/UX·마케팅 포인트 분석 완료 후 모방 페이지 카피 작성 시\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 메모리에서 최근 24시간 의사결정·산출물·명령 추출, Gumroad 데이터 분석, 코다리 SaaS 테스트 로직 점검, 중복 항목 제거\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심",
+      "completedAt": "2026-05-16T19:36:00.150Z"
+    },
+    {
+      "id": "20260516193537-p9hk",
+      "title": "제휴 마케팅으로 총 수익의 30% 이상 확보",
+      "description": "자동 등록 (코다리 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "developer"
+      ],
+      "createdAt": "2026-05-16T19:35:37.762Z",
+      "status": "done",
+      "sessionDir": "2026-05-16T19-02",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-16T19-02/_report.md\n- Researcher: 메모리에서 최근 24시간 의사결정·산출물·명령 추출, Gumroad 데이터 분석, 코다리 SaaS 테스트 로직 점검, 중복 항목 제거\n- 현빈: Gumroad 상위 20 제품 중 전환율 8% 이상인 3개 제품 선정 및 상세 분석 계획 수립\n- Writer: 'AI Legal Contract Generator' Gumroad 제품 기능·UI/UX·마케팅 포인트 분석 완료 후 모방 페이지 카피 작성 시\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 메모리에서 최근 24시간 의사결정·산출물·명령 추출, Gumroad 데이터 분석, 코다리 SaaS 테스트 로직 점검, 중복 항목 제거\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심",
+      "completedAt": "2026-05-16T19:36:00.198Z"
+    },
+    {
+      "id": "20260516193537-g496",
+      "title": "SEO 로 월간 1,000 organic 트래픽 확보",
+      "description": "자동 등록 (코다리 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "developer"
+      ],
+      "createdAt": "2026-05-16T19:35:37.816Z",
+      "status": "done",
+      "sessionDir": "2026-05-16T19-02",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-16T19-02/_report.md\n- Researcher: 메모리에서 최근 24시간 의사결정·산출물·명령 추출, Gumroad 데이터 분석, 코다리 SaaS 테스트 로직 점검, 중복 항목 제거\n- 현빈: Gumroad 상위 20 제품 중 전환율 8% 이상인 3개 제품 선정 및 상세 분석 계획 수립\n- Writer: 'AI Legal Contract Generator' Gumroad 제품 기능·UI/UX·마케팅 포인트 분석 완료 후 모방 페이지 카피 작성 시\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 메모리에서 최근 24시간 의사결정·산출물·명령 추출, Gumroad 데이터 분석, 코다리 SaaS 테스트 로직 점검, 중복 항목 제거\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심",
+      "completedAt": "2026-05-16T19:36:00.247Z"
+    },
+    {
+      "id": "20260516193537-tosa",
+      "title": "Stripe Billing 으로 구독 모델 전환 완료",
+      "description": "자동 등록 (코다리 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "developer"
+      ],
+      "createdAt": "2026-05-16T19:35:37.865Z",
+      "status": "done",
+      "sessionDir": "2026-05-16T19-02",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-16T19-02/_report.md\n- Researcher: 메모리에서 최근 24시간 의사결정·산출물·명령 추출, Gumroad 데이터 분석, 코다리 SaaS 테스트 로직 점검, 중복 항목 제거\n- 현빈: Gumroad 상위 20 제품 중 전환율 8% 이상인 3개 제품 선정 및 상세 분석 계획 수립\n- Writer: 'AI Legal Contract Generator' Gumroad 제품 기능·UI/UX·마케팅 포인트 분석 완료 후 모방 페이지 카피 작성 시\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 메모리에서 최근 24시간 의사결정·산출물·명령 추출, Gumroad 데이터 분석, 코다리 SaaS 테스트 로직 점검, 중복 항목 제거\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심",
+      "completedAt": "2026-05-16T19:36:00.296Z"
+    }
+  ]
+}

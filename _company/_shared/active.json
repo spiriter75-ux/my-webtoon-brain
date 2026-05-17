@@ -33,5 +33,16 @@
     "activatedAt": "2026-05-14T22:29:57.893Z",
     "seeded": true
   },
-  "_migrated_v3": true
+  "_migrated_v3": true,
+  "editor": {
+    "activatedAt": "2026-05-14T23:44:44.715Z"
+  },
+  "novelist": {
+    "activatedAt": "2026-05-15T00:00:00.000Z",
+    "seeded": true
+  },
+  "book_editor": {
+    "activatedAt": "2026-05-15T00:00:00.000Z",
+    "seeded": true
+  }
 }
