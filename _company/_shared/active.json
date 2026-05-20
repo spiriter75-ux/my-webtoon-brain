@@ -1,0 +1,48 @@
+{
+  "_migrated": true,
+  "_migrated_v2": true,
+  "secretary": {
+    "activatedAt": "2026-05-19T04:41:08.034Z",
+    "seeded": true
+  },
+  "youtube": {
+    "activatedAt": "2026-05-19T04:41:08.034Z",
+    "seeded": true
+  },
+  "writer": {
+    "activatedAt": "2026-05-19T04:41:08.034Z",
+    "seeded": true
+  },
+  "designer": {
+    "activatedAt": "2026-05-19T04:41:08.034Z",
+    "seeded": true
+  },
+  "instagram": {
+    "activatedAt": "2026-05-19T04:41:08.034Z",
+    "seeded": true
+  },
+  "business": {
+    "activatedAt": "2026-05-19T04:41:08.034Z",
+    "seeded": true
+  },
+  "developer": {
+    "activatedAt": "2026-05-19T04:41:08.034Z",
+    "seeded": true
+  },
+  "researcher": {
+    "activatedAt": "2026-05-19T04:41:08.034Z",
+    "seeded": true
+  },
+  "novelist": {
+    "activatedAt": "2026-05-19T04:41:08.034Z",
+    "seeded": true
+  },
+  "book_editor": {
+    "activatedAt": "2026-05-19T04:41:08.034Z",
+    "seeded": true
+  },
+  "_migrated_v3": true,
+  "editor": {
+    "activatedAt": "2026-05-19T04:49:18.565Z"
+  }
+}
