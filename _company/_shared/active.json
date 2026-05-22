@@ -1,48 +1,29 @@
 {
   "_migrated": true,
-  "_migrated_v2": true,
   "secretary": {
-    "activatedAt": "2026-05-19T04:41:08.034Z",
-    "seeded": true
+    "activatedAt": "2026-05-21T16:28:30.335Z"
   },
   "youtube": {
-    "activatedAt": "2026-05-19T04:41:08.034Z",
-    "seeded": true
+    "activatedAt": "2026-05-21T16:28:30.335Z"
   },
   "writer": {
-    "activatedAt": "2026-05-19T04:41:08.034Z",
-    "seeded": true
+    "activatedAt": "2026-05-21T16:28:30.335Z"
   },
   "designer": {
-    "activatedAt": "2026-05-19T04:41:08.034Z",
-    "seeded": true
+    "activatedAt": "2026-05-21T16:28:30.335Z"
   },
   "instagram": {
-    "activatedAt": "2026-05-19T04:41:08.034Z",
-    "seeded": true
+    "activatedAt": "2026-05-21T16:28:30.335Z"
   },
   "business": {
-    "activatedAt": "2026-05-19T04:41:08.034Z",
-    "seeded": true
+    "activatedAt": "2026-05-21T16:28:30.335Z"
   },
   "developer": {
-    "activatedAt": "2026-05-19T04:41:08.034Z",
-    "seeded": true
+    "activatedAt": "2026-05-21T16:28:30.335Z"
   },
   "researcher": {
-    "activatedAt": "2026-05-19T04:41:08.034Z",
-    "seeded": true
+    "activatedAt": "2026-05-21T16:28:30.335Z"
   },
-  "novelist": {
-    "activatedAt": "2026-05-19T04:41:08.034Z",
-    "seeded": true
-  },
-  "book_editor": {
-    "activatedAt": "2026-05-19T04:41:08.034Z",
-    "seeded": true
-  },
-  "_migrated_v3": true,
-  "editor": {
-    "activatedAt": "2026-05-19T04:49:18.565Z"
-  }
+  "_migrated_v2": true,
+  "_migrated_v3": true
 }
