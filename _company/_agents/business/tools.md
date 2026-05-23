@@ -1,6 +1,6 @@
-# 💼 현빈 — 도구 매니페스트
+# 🎯 수호 — 도구 매니페스트
 
-_현빈 에이전트가 어떤 도구를 어디까지 자율적으로 쓸 수 있는지 정의합니다._
+_수호 에이전트가 어떤 도구를 어디까지 자율적으로 쓸 수 있는지 정의합니다._
 _매번 시스템 프롬프트로 주입되며, 텔레그램에서 `/tools`로 현재 상태 확인 가능._
 
 ---
@@ -22,34 +22,7 @@ AUTONOMY_LEVEL: 2
 
 ## 사용 가능한 도구
 
-### `paypal_revenue`
-내 PayPal 매출 자동 분석 — 일/주/월별 + 통화별 + 환불율
-
-- `enabled`: true
-- `requires_credentials`: `config.md` 참조
-
-
----
-
-## 로드맵 (예정)
-
-_아래 도구들은 향후 버전에서 추가 예정. 지금은 카탈로그에만 있음._
-
-### `revenue_pull` _(예정)_
-Stripe/Toss 매출 데이터 (PayPal은 paypal_revenue 별도)
-
-- 아직 구현되지 않은 도구입니다. 로드맵에 있으며 향후 버전에서 추가 예정.
-
-### `analytics_pull` _(예정)_
-Google Analytics / Plausible 트래픽
-
-- 아직 구현되지 않은 도구입니다. 로드맵에 있으며 향후 버전에서 추가 예정.
-
-### `pnl_generator` _(예정)_
-월별 P&L 마크다운 자동 생성
-
-- 아직 구현되지 않은 도구입니다. 로드맵에 있으며 향후 버전에서 추가 예정.
-
+_(이 에이전트는 아직 등록된 도구가 없습니다. 추후 추가 예정.)_
 
 ---
 
@@ -57,7 +30,7 @@ Google Analytics / Plausible 트래픽
 
 - **삭제·배포·발송**(rm, deploy --prod, send, publish) 류는 자율도와 무관하게 **항상 승인 게이트**.
 - 외부 API 호출 전 `config.md`의 토큰 존재 여부 확인.
-- 모든 외부 행동은 `_agents/business/activity.log`에 한 줄 기록 (감사용).
+- 모든 외부 행동은 `_agents/creative_strategist/activity.log`에 한 줄 기록 (감사용).
 - 승인 대기 액션은 `approvals/pending/` 에 저장 → 텔레그램 `/approvals` 로 조회.
 
 ---

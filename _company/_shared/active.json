@@ -1,36 +1,42 @@
 {
   "_migrated": true,
-  "secretary": {
-    "activatedAt": "2026-05-21T16:28:30.335Z"
-  },
-  "youtube": {
-    "activatedAt": "2026-05-21T16:28:30.335Z"
-  },
-  "writer": {
-    "activatedAt": "2026-05-21T16:28:30.335Z"
-  },
-  "designer": {
-    "activatedAt": "2026-05-21T16:28:30.335Z"
-  },
-  "instagram": {
-    "activatedAt": "2026-05-21T16:28:30.335Z"
-  },
-  "developer": {
-    "activatedAt": "2026-05-21T16:28:30.335Z"
-  },
-  "researcher": {
-    "activatedAt": "2026-05-21T16:28:30.335Z"
-  },
   "_migrated_v2": true,
   "_migrated_v3": true,
-  "editor": {
-    "activatedAt": "2026-05-23T01:24:08.421Z"
-  },
   "_migrated_locked": true,
+  "ceo": {
+    "activatedAt": "2026-05-23T20:18:12.948479Z"
+  },
   "novelist": {
-    "activatedAt": "2026-05-23T01:28:52.953Z"
+    "activatedAt": "2026-05-23T20:18:12.948479Z"
+  },
+  "writer": {
+    "activatedAt": "2026-05-23T20:18:12.948479Z"
+  },
+  "researcher": {
+    "activatedAt": "2026-05-23T20:18:12.948479Z"
+  },
+  "youtube": {
+    "activatedAt": "2026-05-23T20:18:12.948479Z"
+  },
+  "instagram": {
+    "activatedAt": "2026-05-23T20:18:12.948479Z"
+  },
+  "designer": {
+    "activatedAt": "2026-05-23T20:18:12.948479Z"
+  },
+  "developer": {
+    "activatedAt": "2026-05-23T20:18:12.948479Z"
+  },
+  "visual_director": {
+    "activatedAt": "2026-05-23T20:18:12.948479Z"
+  },
+  "editor": {
+    "activatedAt": "2026-05-23T21:21:22.499Z"
+  },
+  "secretary": {
+    "activatedAt": "2026-05-23T20:18:12.948479Z"
   },
   "business": {
-    "activatedAt": "2026-05-23T10:13:09.887Z"
+    "activatedAt": "2026-05-23T20:18:12.948479Z"
   }
 }

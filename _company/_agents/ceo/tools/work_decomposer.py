@@ -3,6 +3,11 @@ import sys
 import json
 
 def main():
+    if sys.stdout.encoding.lower() != 'utf-8':
+        try:
+            sys.stdout.reconfigure(encoding='utf-8')
+        except Exception:
+            pass
     print("=== [CEO] 업무 세분화 및 실행 로드맵 수립 ===")
     config_path = os.path.join(os.path.dirname(__file__), "work_decomposer.json")
     try:

@@ -1,6 +1,6 @@
-# 🎵 루나 — 도구 매니페스트
+# ⚖️ 하늘 — 도구 매니페스트
 
-_루나 에이전트가 어떤 도구를 어디까지 자율적으로 쓸 수 있는지 정의합니다._
+_하늘 에이전트가 어떤 도구를 어디까지 자율적으로 쓸 수 있는지 정의합니다._
 _매번 시스템 프롬프트로 주입되며, 텔레그램에서 `/tools`로 현재 상태 확인 가능._
 
 ---
@@ -22,24 +22,7 @@ AUTONOMY_LEVEL: 2
 
 ## 사용 가능한 도구
 
-### `music_studio_setup`
-음악 모델 설치 (MusicGen / ACE-Step)
-
-- `enabled`: true
-- `requires_credentials`: `config.md` 참조
-
-### `music_generate`
-BGM 자동 생성 (장르·길이 지정)
-
-- `enabled`: true
-- `requires_credentials`: `config.md` 참조
-
-### `music_to_video`
-생성된 BGM을 영상에 합성 (loop/fade)
-
-- `enabled`: true
-- `requires_credentials`: `config.md` 참조
-
+_(이 에이전트는 아직 등록된 도구가 없습니다. 추후 추가 예정.)_
 
 ---
 
@@ -47,7 +30,7 @@ BGM 자동 생성 (장르·길이 지정)
 
 - **삭제·배포·발송**(rm, deploy --prod, send, publish) 류는 자율도와 무관하게 **항상 승인 게이트**.
 - 외부 API 호출 전 `config.md`의 토큰 존재 여부 확인.
-- 모든 외부 행동은 `_agents/editor/activity.log`에 한 줄 기록 (감사용).
+- 모든 외부 행동은 `_agents/art_director/activity.log`에 한 줄 기록 (감사용).
 - 승인 대기 액션은 `approvals/pending/` 에 저장 → 텔레그램 `/approvals` 로 조회.
 
 ---
