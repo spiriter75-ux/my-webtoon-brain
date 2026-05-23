@@ -11,6 +11,9 @@ Requires:  pip install google-api-python-client requests
 """
 import os, json, time, random, datetime, sys
 
+if sys.stdout.encoding.lower() != 'utf-8':
+    sys.stdout.reconfigure(encoding='utf-8')
+
 HERE = os.path.dirname(os.path.abspath(__file__))
 CONFIG_PATH = os.path.join(HERE, "trend_sniper.json")
 ACCOUNT_PATH = os.path.join(HERE, "youtube_account.json")

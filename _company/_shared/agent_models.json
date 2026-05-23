@@ -1,14 +1,13 @@
 {
-  "ceo": "qwen3.5-9b-abliterated-vision:latest",
-  "youtube": "qwen3.5:9b-Q8-Uncensored",
-  "validator": "qwen3.5-9b-abliterated-vision:latest",
-  "designer": "qwen3.5-9b-abliterated-vision:latest",
-  "developer": "qwen3.5:9b-Q8-Uncensored",
-  "business": "qwen3.5-9b-abliterated-vision:latest",
-  "secretary": "qwen3.5-9b-abliterated-vision:latest",
-  "editor": "qwen3.5-9b-abliterated-vision:latest",
-  "writer": "qwen3.5-9b-abliterated-vision:latest",
-  "researcher": "qwen3.5:9b-Q8-Uncensored",
+  "ceo": "qwen3.5:9b-Q8-Uncensored",
   "novelist": "qwen3.5:9b-Q8-Uncensored",
-  "book_editor": "qwen3.5:9b-Q8-Uncensored"
+  "writer": "qwen3.5:9b-Q8-Uncensored",
+  "researcher": "qwen3.5-9b-abliterated-vision:latest",
+  "youtube": "qwen3.5:9b-Q8-Uncensored",
+  "designer": "qwen3.5:9b-q8_vision",
+  "developer": "qwen3.5:9b-Q8-Uncensored",
+  "visual_director": "qwen3.5-9b-abliterated-vision:latest",
+  "editor": "qwen3.5-9b-abliterated-vision:latest",
+  "secretary": "qwen3.5:9b-Q8-Uncensored",
+  "business": "qwen3.5:9b-Q8-Uncensored"
 }

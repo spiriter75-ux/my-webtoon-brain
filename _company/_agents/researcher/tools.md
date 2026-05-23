@@ -28,6 +28,12 @@ AUTONOMY_LEVEL: 2
 - `enabled`: true
 - `requires_credentials`: `config.md` 참조
 
+### `web_search`
+🌐 DuckDuckGo 기반 통합 웹 검색 도구 (텍스트 및 이미지)
+
+- `enabled`: true
+- `requires_credentials`: false (API 키 필요 없음)
+
 
 ---
 
@@ -35,10 +41,6 @@ AUTONOMY_LEVEL: 2
 
 _아래 도구들은 향후 버전에서 추가 예정. 지금은 카탈로그에만 있음._
 
-### `web_search` _(예정)_
-Brave/DuckDuckGo 검색 (Connected)
-
-- 아직 구현되지 않은 도구입니다. 로드맵에 있으며 향후 버전에서 추가 예정.
 
 ### `page_fetcher` _(예정)_
 본문 추출 + 출처 인용

@@ -15,9 +15,6 @@
   "instagram": {
     "activatedAt": "2026-05-21T16:28:30.335Z"
   },
-  "business": {
-    "activatedAt": "2026-05-21T16:28:30.335Z"
-  },
   "developer": {
     "activatedAt": "2026-05-21T16:28:30.335Z"
   },
@@ -32,5 +29,8 @@
   "_migrated_locked": true,
   "novelist": {
     "activatedAt": "2026-05-23T01:28:52.953Z"
+  },
+  "business": {
+    "activatedAt": "2026-05-23T10:13:09.887Z"
   }
 }
