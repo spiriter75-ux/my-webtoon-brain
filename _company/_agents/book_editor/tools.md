@@ -22,24 +22,7 @@ AUTONOMY_LEVEL: 2
 
 ## 사용 가능한 도구
 
-### `storyboard_reviewer`
-📝 콘티 연출 및 가독성 분석기 (스크롤 및 모바일 연출 진단)
-
-- `enabled`: true
-- `requires_credentials`: `config.md` 참조
-
-### `comfyui_generator`
-🎨 ComfyUI Z-Anime 삽화 생성기 (스토리 시각화)
-
-- `enabled`: true
-- `requires_credentials`: `config.md` 참조
-
-### `webtoon_storyboard_extractor`
-📖 대용량 소설/시나리오 분석 및 웹툰 콘티(스토리보드) 추출과 ComfyUI 연동 이미지 자동 생성기
-
-- `enabled`: true
-- `requires_credentials`: `config.md` 참조
-
+_(이 에이전트는 아직 등록된 도구가 없습니다. 추후 추가 예정.)_
 
 ---
 

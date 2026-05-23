@@ -1,0 +1,27 @@
+{
+  "PLATFORM_LIST": ["Naver Webtoon", "Kakao Page"],
+  "ANALYSIS_PERIOD_DAYS": 30,
+  "PROMOTION_TYPE": "Gidamu / Daily Free",
+  "_schema": {
+    "PLATFORM_LIST": {
+      "type": "list",
+      "label": "📊 분석 대상 플랫폼 목록",
+      "hint": "네이버웹툰, 카카오페이지 등 트렌드 데이터를 수집할 연재 플랫폼을 지정합니다."
+    },
+    "ANALYSIS_PERIOD_DAYS": {
+      "type": "number",
+      "label": "📅 분석 트렌드 기간 (일)",
+      "hint": "인기 순위 및 지표 분석을 진행할 과거 일수입니다."
+    },
+    "PROMOTION_TYPE": {
+      "type": "select",
+      "label": "🎯 핵심 프로모션 유형",
+      "hint": "독자 유입률 극대화에 활용할 플랫폼 전용 프로모션 전략 방식입니다.",
+      "options": [
+        { "value": "Gidamu / Daily Free", "label": "⏱️ 기다무 / 매일열무 (카카오/네이버 시간제 무료)" },
+        { "value": "Recommended Banner", "label": "🏷️ 추천 보드 / 메인 썸네일 노출 프로모션" },
+        { "value": "Cash Event", "label": "💰 쿠키 / 캐시 지급 충성도 이벤트" }
+      ]
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "COMFYUI_SERVER_URL": "http://127.0.0.1:8188",
+  "POSITIVE_PROMPT": "A young anime girl with long flowing silver hair, purple eyes, wearing a sleek black dress, highly detailed, masterpieces, 8k resolution",
+  "NEGATIVE_PROMPT": "blurry, low quality, deformed, bad anatomy, bad hands, extra limbs",
+  "SEED": -1,
+  "_schema": {
+    "COMFYUI_SERVER_URL": {
+      "type": "text",
+      "label": "🔌 ComfyUI 서버 주소",
+      "hint": "예: http://127.0.0.1:8188"
+    },
+    "POSITIVE_PROMPT": {
+      "type": "text",
+      "label": "🎨 긍정 프롬프트 (Positive Prompt)",
+      "hint": "영어로 생성할 이미지를 묘사하세요."
+    },
+    "NEGATIVE_PROMPT": {
+      "type": "text",
+      "label": "🚫 부정 프롬프트 (Negative Prompt)",
+      "hint": "제외하고 싶은 요소들을 입력하세요."
+    },
+    "SEED": {
+      "type": "number",
+      "label": "🎲 시드 (Seed, -1은 무작위)",
+      "hint": "일정한 이미지를 유지하고 싶으면 시드를 고정하세요."
+    }
+  }
+}

@@ -25,5 +25,12 @@
     "activatedAt": "2026-05-21T16:28:30.335Z"
   },
   "_migrated_v2": true,
-  "_migrated_v3": true
+  "_migrated_v3": true,
+  "editor": {
+    "activatedAt": "2026-05-23T01:24:08.421Z"
+  },
+  "_migrated_locked": true,
+  "novelist": {
+    "activatedAt": "2026-05-23T01:28:52.953Z"
+  }
 }

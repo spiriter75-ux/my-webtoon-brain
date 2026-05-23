@@ -22,30 +22,14 @@ AUTONOMY_LEVEL: 2
 
 ## 사용 가능한 도구
 
-### `color_palette_generator`
-🎨 브랜드 컬러 팔레트 빌더 (CSS 커스텀 변수 설계)
-
-- `enabled`: true
-- `requires_credentials`: `config.md` 참조
-
-### `comfyui_generator`
-🎨 ComfyUI Z-Anime 이미지 생성기 (로컬 워크플로우 연동)
-
-- `enabled`: true
-- `requires_credentials`: `config.md` 참조
-
-### `webtoon_storyboard_extractor`
-📖 대용량 소설/시나리오 분석 및 웹툰 콘티(스토리보드) 추출과 ComfyUI 연동 이미지 자동 생성기
-
-- `enabled`: true
-- `requires_credentials`: `config.md` 참조
-
-
----
+_⚠️ 이 에이전트의 도구는 모두 로드맵 단계입니다. 현재 LLM 추론만 가능하고, 외부 API 호출이나 파일 생성은 아직 동작하지 않습니다._
 
 ## 로드맵 (예정)
 
-_아래 도구들은 향후 버전에서 추가 예정. 지금은 카탈로그에만 있음._
+### `image_local` _(예정)_
+로컬 SDXL/FLUX 이미지 생성 (오프라인 정체성)
+
+- 아직 구현되지 않은 도구입니다. 로드맵에 있으며 향후 버전에서 추가 예정.
 
 ### `image_cloud` _(예정)_
 DALL-E/Replicate (Connected 모드 토글)

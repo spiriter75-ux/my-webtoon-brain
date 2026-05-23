@@ -3,12 +3,12 @@
   "youtube": "qwen3.5:9b-Q8-Uncensored",
   "validator": "qwen3.5-9b-abliterated-vision:latest",
   "designer": "qwen3.5-9b-abliterated-vision:latest",
-  "developer": "qwen3.6-27b-uncensored-aggressive:latest",
+  "developer": "qwen3.5:9b-Q8-Uncensored",
   "business": "qwen3.5-9b-abliterated-vision:latest",
   "secretary": "qwen3.5-9b-abliterated-vision:latest",
   "editor": "qwen3.5-9b-abliterated-vision:latest",
   "writer": "qwen3.5-9b-abliterated-vision:latest",
-  "researcher": "qwen3.6-27b-uncensored-aggressive:latest",
-  "novelist": "qwen3.5-9b-abliterated-vision:latest",
-  "book_editor": "qwen3.5-9b-abliterated-vision:latest"
+  "researcher": "qwen3.5:9b-Q8-Uncensored",
+  "novelist": "qwen3.5:9b-Q8-Uncensored",
+  "book_editor": "qwen3.5:9b-Q8-Uncensored"
 }
