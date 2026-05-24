@@ -1,0 +1,79 @@
+{
+  "characters": [],
+  "locations": [],
+  "objects": [],
+  "novelText": "제1화: 강철의 침묵\n수심 400미터. 한 줄기 태양 빛조차 영원히 닿지 않는 절대적인 암흑의 심연.\n인간의 오만함을 비웃듯, 40기압에 달하는 억겁의 세월이 켜켜이 쌓인 무겁고 차가운 해수의 무게가 강철 함체를 사방에서 무자비하게 짓누르고 있었다. 함체 외벽을 타고 흐르는 물의 압력에 육중한 티타늄 내압 선체 프레임이 미세하게 뒤틀리며 내는 기괴하고 신경질적인 마찰음, 이른바 '잠수함의 비명'만이 이따금 팽팽한 정적을 날카롭게 찢었다.\n조국을 위해 헌신했던 독립운동가의 이름을 이어받은, 대한민국 해군의 가장 은밀한 비수이자 최정예 비대칭 전력인 3,000톤급 잠수함 '안창호함'은 그 차가운 무덤 같은 바다 밑바닥에서 유령처럼 숨을 죽인 채, 오직 추진기의 최소 관성만으로 소리 없이 나아가고 있었다. 빛도, 소리도, 심지어 시간의 흐름마저 왜곡되는 이 철저한 고립의 공간은 승조원들에게 있어 안식처이자 동시에 언제든 관으로 변할 수 있는 강철 무덤이었다.\n발령소(發令所) 내부는 붉은 비상등만이 불길하게 명멸하며 승조원들의 긴장된 얼굴에 짙고 기괴한 그림자를 드리우는, 서늘하고 무거운 침묵의 공간이었다. 재순환 공기 정화기를 수십 번이나 거친 퀴퀴하고 건조한 인공 공기의 냄새, 배관 깊숙이 베어든 기계 기름의 비릿한 악취, 오존 타는 냄새, 그리고 극한의 긴장감 속에서 뿜어져 나오는 오십 명 승조원들의 식은땀 냄새가 냉각 팬의 미세한 웅웅거림 속에 섞여 탁하게 돌아갔다.\n사실 안창호함은 십여 분 전, 본국 지휘부로부터 돌연 암호 전문 하나를 하달받은 상태였다.\n[코드 블랙. 작전 즉각 중지 및 무장 해제 후 부상 대기.]\n기상 악화나 장비 결함으로 연합 훈련이 도중에 중지되는 일은 군에서 비일비재했다. 김태형 함장은 매뉴얼에 따라 훈련을 종료하고 즉각 퇴각 절차를 밟으려 했다. 하지만 훈련 종료 명령이 떨어지기가 무섭게, 연합 훈련 파트너인 일본 해상자위대 잠수함과의 전술 데이터 링크가 원인 모를 노이즈와 함께 일방적으로 끊어져 버렸다. 훈련 취소 명령과 동시에 홀연히 기동 반경에서 이탈해버린 동맹국 잠수함의 찝찝한 행보.\n함장석에 앉은 김태형 대령은 그 기이한 타이밍에 짙은 의구심을 느끼며 10분째 묵묵히 전황을 주시하고 있었다. 최고 지휘관의 그 속을 알 수 없는 무거운 침묵은 좁은 발령소의 공기를 더욱 차갑게 짓눌렀다.\n한편, 발령소 중앙에서 실무 전술을 지휘해야 하는 부함장 이헌성 소령은 그 숨 막히는 압박감 속에서 터질 듯한 관자놀이를 꾹 눌렀다.\n\"부함장님! '알파' 타겟의 소음 패턴이 급격히 변했습니다! 회전수 급상승, 추진기 공동현상 발생! 적성 함정, 잠항을 풀고 고속 기동 시작했습니다. 거리는 8,000으로 좁혀지고 있습니다. 이 속도라면 곧 어뢰 사정권에 완벽하게 들어옵니다!\"\n음탐실 헤드셋을 두 손으로 부서져라 꽉 쥔 소나장 박 중사의 목소리가 낮지만 다급하게 깔렸다. 이헌성은 신경질적으로 찌푸려진 미간을 짓눌렀다. 훈련이 공식적으로 종료되었다면, 가상 적기 역할을 맡은 상대 함정의 기동과 공격 절차도 그 즉시 멈춰야만 정상이었다.\n\"통신관! 일본 측 응답은 아직도 없나! 본국 사령부와 연결되는 비상 통신 위성 채널이라도 즉각 복구해!\"\n\"여전히 묵묵부답입니다! 아까부터 이어진 통신 지연이 단순한 장비 오류나 기상 악화 따위가 아닙니다. 초광대역 주파수 재밍입니다! 위성 채널뿐만 아니라 수중 음파 통신망 전체가 극도로 강력하고 정교한 전자전 간섭으로 완벽하게 막혔습니다! 완전히 고립됐습니다!\"\n이헌성의 척추를 타고 서늘하고 섬뜩한 소름이 돋았다. 살의를 품고 달려드는 적성 함정, 그리고 완벽한 전자전 고립.\n\"함장님! 적의 전자전에 사령부 통신망이 해킹당한 가짜 명령서일 수 있습니다! 그게 아니라면, 본국에서는 지금 우리가 실탄 어뢰에 조준당하고 있다는 사실을 전혀 모르는 겁니다! 적의 공격이 임박했는데 무방비 부상이라니요. 당장 회피 기동부터 승인해 주십시오!\"\n전장에서 눈과 귀가 가려진 채 적의 총구 앞에 선 엘리트 장교로서, 생존을 위해 본능적으로 터져 나온 절박한 전술적 판단이었다. 이헌성이 소리쳤으나, 김태형 대령은 돌부처처럼 미동도 하지 않았다. 김 함장의 초점 잃은 시선은 오직 10분 전 수신되었던 그 훈련 종료 메시지가 출력된 얇고 구겨진 종이 한 장만을 멍하니 응시하고 있었다. 종이를 꽉 쥔 그의 굵고 거친 손이 통제할 수 없을 만큼 파르르 떨리고 있었다.\n\"방위 1-4-0! 적 어뢰 발사! 고속으로 접근 중입니다! 거리는 800!\"\n소나장의 다급한 외침에 이헌성의 눈빛이 야차처럼 번뜩였다.\n\"함장님, 부함장 이헌성이 지금부터 전술 지휘를 인계받겠습니다!\"\n",
+  "panels": [
+    {
+      "panelNumber": 1,
+      "sceneDescription": "수심 400미터, 한 줄기 빛도 닿지 않는 심해의 절대적인 암흑 속에서, 거대한 강철 잠수함 '안창호함'이 유령처럼 조용히 나아가고 있다. 주변은 짙은 푸른색과 검은색이 뒤섞인 심해의 모습이며, 잠수함의 외벽에는 엄청난 수압으로 인해 미세한 뒤틀림이 느껴진다.",
+      "imagePrompt": "masterpiece, best quality, an ultra-realistic 3000-ton submarine, 'Ahn Changho-ham', gliding silently through the absolute darkness of the deep sea at 400 meters depth, no sunlight reaching, surrounded by dark blue and black abyssal water, subtle distortions on the steel hull due to immense water pressure, eerie silence, wide shot, cinematic lighting, modern webtoon style, clean lines, rich colors, 9:16 aspect ratio.",
+      "narration": "수심 400미터. 한 줄기 태양 빛조차 영원히 닿지 않는 절대적인 암흑의 심연.",
+      "dialogue": ""
+    },
+    {
+      "panelNumber": 2,
+      "sceneDescription": "잠수함 '안창호함'의 육중한 티타늄 내압 선체 프레임이 수압에 의해 미세하게 뒤틀리며 기괴한 마찰음을 내는 모습. 잠수함의 외벽을 클로즈업하여, 압력으로 인한 미세한 균열이나 변형을 시각적으로 강조한다.",
+      "imagePrompt": "masterpiece, best quality, a close-up shot of the 'Ahn Changho-ham' submarine's heavy titanium pressure hull frame, subtly twisting and creaking under immense water pressure, showing fine cracks or deformations on the outer wall, dark deep-sea background, dramatic lighting emphasizing the stress, modern webtoon style, clean lines, rich colors, 9:16 aspect ratio.",
+      "narration": "인간의 오만함을 비웃듯, 40기압에 달하는 억겁의 세월이 켜켜이 쌓인 무겁고 차가운 해수의 무게가 강철 함체를 사방에서 무자비하게 짓누르고 있었다.",
+      "dialogue": ""
+    },
+    {
+      "panelNumber": 3,
+      "sceneDescription": "'안창호함' 발령소 내부. 붉은 비상등이 불길하게 깜빡이며 승조원들의 긴장된 얼굴에 짙은 그림자를 드리우고 있다. 퀴퀴한 공기와 기계 기름 냄새가 느껴지는 듯한 답답하고 무거운 분위기. 여러 승조원들이 각자의 자리에서 모니터를 주시하거나 장비를 조작하고 있다.",
+      "imagePrompt": "masterpiece, best quality, interior of the 'Ahn Changho-ham' submarine's command center (발령소), illuminated by flickering red emergency lights casting deep, eerie shadows on the tense faces of the crew members, cramped and heavy atmosphere, showing various crew members monitoring screens and operating equipment, close-up on a few focused faces, realistic details, modern webtoon style, clean lines, rich colors, 9:16 aspect ratio.",
+      "narration": "발령소 내부는 붉은 비상등만이 불길하게 명멸하며 승조원들의 긴장된 얼굴에 짙고 기괴한 그림자를 드리우는, 서늘하고 무거운 침묵의 공간이었다.",
+      "dialogue": ""
+    },
+    {
+      "panelNumber": 4,
+      "sceneDescription": "김태형 함장이 함장석에 앉아 굳은 표정으로 정면을 응시하고 있다. 그의 손에는 '코드 블랙' 명령이 적힌 구겨진 종이가 들려 있고, 손이 미세하게 떨리고 있다. 그의 시선은 초점이 없는 듯 멍하다.",
+      "imagePrompt": "masterpiece, best quality, a middle-aged male captain, Kim Tae-hyung, sitting in the captain's chair in the submarine command center, stern expression, holding a crumpled paper with 'CODE BLACK' written on it, his hand subtly trembling, unfocused gaze, red emergency lighting, close-up shot, modern webtoon style, clean lines, rich colors, 9:16 aspect ratio.",
+      "narration": "사실 안창호함은 십여 분 전, 본국 지휘부로부터 돌연 암호 전문 하나를 하달받은 상태였다.",
+      "dialogue": ""
+    },
+    {
+      "panelNumber": 5,
+      "sceneDescription": "통신관이 헤드셋을 낀 채 다급하게 통신 장비를 조작하고 있지만, 화면에는 'NO SIGNAL' 또는 'JAMMING' 같은 메시지가 떠 있다. 그의 얼굴에는 당혹감과 초조함이 역력하다.",
+      "imagePrompt": "masterpiece, best quality, a young male communications officer, wearing a headset, frantically operating communication equipment in the submarine command center, screen displaying 'NO SIGNAL' or 'JAMMING', expression of panic and frustration, red emergency lighting, medium shot, modern webtoon style, clean lines, rich colors, 9:16 aspect ratio.",
+      "narration": "",
+      "dialogue": "여전히 묵묵부답입니다! 아까부터 이어진 통신 지연이 단순한 장비 오류나 기상 악화 따위가 아닙니다. 초광대역 주파수 재밍입니다! 위성 채널뿐만 아니라 수중 음파 통신망 전체가 극도로 강력하고 정교한 전자전 간섭으로 완벽하게 막혔습니다! 완전히 고립됐습니다!"
+    },
+    {
+      "panelNumber": 6,
+      "sceneDescription": "이헌성 부함장이 발령소 중앙에서 관자놀이를 꾹 누르며 긴장감에 휩싸인 표정을 짓고 있다. 그의 등 뒤로 박 중사가 헤드셋을 낀 채 다급하게 보고하는 모습이 보인다.",
+      "imagePrompt": "masterpiece, best quality, a young male executive officer, Lee Heon-seong, pressing his temple with a tense, stressed expression in the center of the submarine command center, in the background, a male sonar chief, Sergeant Park, wearing a headset, urgently reporting, red emergency lighting, medium shot, modern webtoon style, clean lines, rich colors, 9:16 aspect ratio.",
+      "narration": "",
+      "dialogue": "부함장님! '알파' 타겟의 소음 패턴이 급격히 변했습니다! 회전수 급상승, 추진기 공동현상 발생! 적성 함정, 잠항을 풀고 고속 기동 시작했습니다. 거리는 8,000으로 좁혀지고 있습니다. 이 속도라면 곧 어뢰 사정권에 완벽하게 들어옵니다!"
+    },
+    {
+      "panelNumber": 7,
+      "sceneDescription": "이헌성 부함장이 김태형 함장을 향해 몸을 돌려 절박하게 외치고 있다. 김 함장은 여전히 멍한 표정으로 종이를 응시하며 미동도 없다. 이헌성의 얼굴에는 분노와 절박함이 교차한다.",
+      "imagePrompt": "masterpiece, best quality, a young male executive officer, Lee Heon-seong, turning towards the captain's chair, shouting desperately at Captain Kim Tae-hyung, who remains motionless, staring blankly at the crumpled paper, Lee Heon-seong's face showing a mix of anger and desperation, red emergency lighting, dynamic angle, modern webtoon style, clean lines, rich colors, 9:16 aspect ratio.",
+      "narration": "",
+      "dialogue": "함장님! 적의 전자전에 사령부 통신망이 해킹당한 가짜 명령서일 수 있습니다! 그게 아니라면, 본국에서는 지금 우리가 실탄 어뢰에 조준당하고 있다는 사실을 전혀 모르는 겁니다! 적의 공격이 임박했는데 무방비 부상이라니요. 당장 회피 기동부터 승인해 주십시오!"
+    },
+    {
+      "panelNumber": 8,
+      "sceneDescription": "박 중사가 소나실에서 헤드셋을 꽉 쥔 채 비명을 지르듯 다급하게 외치고 있다. 그의 얼굴은 공포와 경악으로 일그러져 있다. 화면에는 빠르게 접근하는 어뢰의 궤적이 표시된다.",
+      "imagePrompt": "masterpiece, best quality, a male sonar chief, Sergeant Park, in the sonar room, gripping his headset tightly with both hands, screaming urgently, face contorted in fear and shock, screen displaying the rapidly approaching trajectory of a torpedo, red emergency lighting, close-up shot, modern webtoon style, clean lines, rich colors, 9:16 aspect ratio.",
+      "narration": "",
+      "dialogue": "방위 1-4-0! 적 어뢰 발사! 고속으로 접근 중입니다! 거리는 800!"
+    },
+    {
+      "panelNumber": 9,
+      "sceneDescription": "이헌성 부함장의 얼굴을 클로즈업. 그의 눈빛이 야차처럼 번뜩이며 결연한 의지가 드러난다. 그의 표정은 이제 망설임 없이 상황을 장악하려는 강렬한 의지를 보여준다.",
+      "imagePrompt": "masterpiece, best quality, a close-up shot of the young male executive officer, Lee Heon-seong's face, his eyes gleaming fiercely like a demon (yacha), showing resolute determination, a powerful expression of taking charge without hesitation, red emergency lighting, dramatic lighting, modern webtoon style, clean lines, rich colors, 9:16 aspect ratio.",
+      "narration": "",
+      "dialogue": "함장님, 부함장 이헌성이 지금부터 전술 지휘를 인계받겠습니다!"
+    }
+  ],
+  "settings": {
+    "apiKey": "AIzaSyBmI--JtokMoC_473tU0wm74fWOg2pS6ZQ",
+    "styleGuide": "현대 웹툰풍, 깔끔하고 선명한 라인, 풍부한 색감",
+    "globalConstraints": "배경에 불필요한 텍스트나 로고가 포함되지 않도록 생성.",
+    "aspectRatio": "9:16",
+    "aiProvider": "gemini",
+    "ollamaModel": "Qwen3.5-9b-Uncensored:latest"
+  }
+}
