@@ -1,0 +1,40 @@
+{
+  "NOVEL_TEXT_PATH": "",
+  "NOVEL_RAW_TEXT": "소설 텍스트 내용을 입력하거나, 또는 NOVEL_TEXT_PATH에 텍스트 파일 경로를 입력하세요.",
+  "OLLAMA_SERVER_URL": "http://127.0.0.1:11434",
+  "OLLAMA_MODEL": "qwen3.5:9b",
+  "COMFYUI_SERVER_URL": "http://127.0.0.1:8188",
+  "GENERATE_IMAGES": true,
+  "_schema": {
+    "NOVEL_TEXT_PATH": {
+      "type": "text",
+      "label": "📁 소설 텍스트 파일 경로 (선택)",
+      "hint": "c:\\ai2\\novel.txt 같이 비워두면 NOVEL_RAW_TEXT를 사용합니다."
+    },
+    "NOVEL_RAW_TEXT": {
+      "type": "text",
+      "label": "📝 소설 원문 텍스트 (Raw Text)",
+      "hint": "여기에 소설 내용을 붙여넣으세요."
+    },
+    "OLLAMA_SERVER_URL": {
+      "type": "text",
+      "label": "🔌 Ollama 로컬 주소",
+      "hint": "예: http://127.0.0.1:11434"
+    },
+    "OLLAMA_MODEL": {
+      "type": "text",
+      "label": "🤖 Ollama 로컬 모델",
+      "hint": "예: qwen3.5:9b 또는 qwen2.5:7b"
+    },
+    "COMFYUI_SERVER_URL": {
+      "type": "text",
+      "label": "🔌 ComfyUI 로컬 주소",
+      "hint": "예: http://127.0.0.1:8188"
+    },
+    "GENERATE_IMAGES": {
+      "type": "boolean",
+      "label": "🎨 패널별 이미지 자동 생성 여부",
+      "hint": "체크 시 ComfyUI 연동으로 각 패널별 애니메이션 작화를 실시간 생성합니다."
+    }
+  }
+}

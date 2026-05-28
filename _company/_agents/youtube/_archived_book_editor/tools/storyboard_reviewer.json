@@ -1,0 +1,40 @@
+{
+  "PANEL_GAP_CHECK": "true",
+  "CAMERA_ANGLE_DIVERSITY": "true",
+  "DIALOGUE_LENGTH_LIMIT": 2,
+  "_schema": {
+    "PANEL_GAP_CHECK": {
+      "type": "select",
+      "label": "↔️ 스크롤 컷 간격 검사",
+      "options": [
+        {
+          "value": "true",
+          "label": "활성화"
+        },
+        {
+          "value": "false",
+          "label": "비활성화"
+        }
+      ]
+    },
+    "CAMERA_ANGLE_DIVERSITY": {
+      "type": "select",
+      "label": "🎥 카메라 앵글 다양성 진단",
+      "options": [
+        {
+          "value": "true",
+          "label": "활성화"
+        },
+        {
+          "value": "false",
+          "label": "비활성화"
+        }
+      ]
+    },
+    "DIALOGUE_LENGTH_LIMIT": {
+      "type": "number",
+      "label": "💬 말풍선 줄수 상한선",
+      "hint": "모바일 가독성을 위해 한 말풍선당 추천 줄수 (기본 2줄)"
+    }
+  }
+}

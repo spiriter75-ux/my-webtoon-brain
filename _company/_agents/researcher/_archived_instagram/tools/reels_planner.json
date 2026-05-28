@@ -1,0 +1,35 @@
+{
+  "TOPIC": "1인 기업으로 하루 100만원 벌기",
+  "TARGET_LENGTH_SEC": 30,
+  "TONE": "confident",
+  "_schema": {
+    "TOPIC": {
+      "type": "text",
+      "label": "🎤 릴스 주제",
+      "hint": "영상에서 다룰 핵심 아이디어"
+    },
+    "TARGET_LENGTH_SEC": {
+      "type": "number",
+      "label": "⏱️ 영상 목표 길이(초)",
+      "hint": "15, 30, 60 등"
+    },
+    "TONE": {
+      "type": "select",
+      "label": "🎭 톤앤매너",
+      "options": [
+        {
+          "value": "confident",
+          "label": "🔥 자신감 넘치고 강렬한 톤"
+        },
+        {
+          "value": "friendly",
+          "label": "😊 친근하고 부드러운 톤"
+        },
+        {
+          "value": "informative",
+          "label": "📊 정보 중심의 지적 톤"
+        }
+      ]
+    }
+  }
+}
