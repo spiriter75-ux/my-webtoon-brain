@@ -1,0 +1,41 @@
+{
+  "_migrated": true,
+  "_migrated_v2": true,
+  "novelist": {
+    "activatedAt": "2026-05-27T06:58:45.260Z",
+    "seeded": true
+  },
+  "novel_architect": {
+    "activatedAt": "2026-05-27T06:58:45.260Z",
+    "seeded": true
+  },
+  "lore_researcher": {
+    "activatedAt": "2026-05-27T06:58:45.260Z",
+    "seeded": true
+  },
+  "storyboard_director": {
+    "activatedAt": "2026-05-27T06:58:45.260Z",
+    "seeded": true
+  },
+  "character_designer": {
+    "activatedAt": "2026-05-27T06:58:45.260Z",
+    "seeded": true
+  },
+  "background_artist": {
+    "activatedAt": "2026-05-27T06:58:45.260Z",
+    "seeded": true
+  },
+  "prompt_engineer": {
+    "activatedAt": "2026-05-27T06:58:45.260Z",
+    "seeded": true
+  },
+  "visual_director": {
+    "activatedAt": "2026-05-27T06:58:45.260Z",
+    "seeded": true
+  },
+  "visual_qa": {
+    "activatedAt": "2026-05-27T06:58:45.260Z",
+    "seeded": true
+  },
+  "_migrated_v3": true
+}

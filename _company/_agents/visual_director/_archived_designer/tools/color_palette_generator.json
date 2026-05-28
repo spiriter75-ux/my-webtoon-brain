@@ -1,0 +1,35 @@
+{
+  "BASE_COLOR": "#22d3ee",
+  "STYLE": "sleek-dark",
+  "CSS_PREFIX": "brand",
+  "_schema": {
+    "BASE_COLOR": {
+      "type": "text",
+      "label": "🎨 기준 색상 (Hex/HSL)",
+      "hint": "브랜드 시그니처 컬러. 예: #22D3EE"
+    },
+    "STYLE": {
+      "type": "select",
+      "label": "✨ 스타일 콘셉트",
+      "options": [
+        {
+          "value": "sleek-dark",
+          "label": "🌃 프리미엄 다크 모드 (Sleek Dark)"
+        },
+        {
+          "value": "glassmorphism",
+          "label": "❄️ 투명한 글래스모피즘 (Glassmorphism)"
+        },
+        {
+          "value": "pastel",
+          "label": "🌸 화사하고 화창한 파스텔 (Pastel)"
+        }
+      ]
+    },
+    "CSS_PREFIX": {
+      "type": "text",
+      "label": "🏷️ CSS 변수 접두사",
+      "hint": "예: brand-primary"
+    }
+  }
+}
