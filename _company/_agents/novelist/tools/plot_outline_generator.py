@@ -4,7 +4,8 @@ import json
 
 def main():
     print("=== [NOVELIST] 메가 히트 플롯 및 시나리오 기획 ===")
-    config_path = os.path.join(os.path.dirname(__file__), "plot_outline_generator.json")
+    base_dir = os.path.dirname(os.path.abspath(__file__)) if "__file__" in globals() else os.getcwd()
+    config_path = os.path.join(base_dir, "plot_outline_generator.json")
     try:
         with open(config_path, "r", encoding="utf-8") as f:
             cfg = json.load(f)
